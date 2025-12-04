@@ -1,13 +1,5 @@
 # 📘 Performance Analysis of PCA, LDA, and DCT for Dimensionality Reduction
 
-## 👨‍💻 Authors
-- **Avnish Raj (25/SWE/03)**
-- **Prajjwal Pathak (25/SWE/05)**
-- **Sumit Tripathi (25/SWE/08)**
-- **Nitesh Bhardwaj (25/SWE/12)**
-
----
-
 ## 🧩 Abstract
 This project presents a comparative analysis of three dimensionality reduction techniques — **Principal Component Analysis (PCA)**, **Linear Discriminant Analysis (LDA)**, and **Discrete Cosine Transform (DCT)** — applied to high-dimensional data.  
 The primary goal is to evaluate each method’s ability to reduce dimensionality while maintaining model performance, minimizing error, and reducing computation time.
